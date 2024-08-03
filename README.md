@@ -9,3 +9,6 @@ fear
 surprise
 disgust
 The emotions are labeled from 1 to 8 for each emotion. Odd number is assigned for a male actor and even for a female actor.
+
+
+
