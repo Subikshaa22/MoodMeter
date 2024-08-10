@@ -24,7 +24,8 @@ Filename identifiers:
 - **predict.py**: A Python script that loads the trained model and predicts the emotion from a given audio file.
 - **server.js**: An Express.js server that handles file uploads, runs the prediction script, and returns the result to the client.
 - **index.ejs**: An EJS template that serves as the frontend, allowing users to upload audio files and see the predicted emotion.
-
+- **style.css**: A CSS file that adds to the visual appearance of the website.
+  
 ## Features
 
 - **Emotion Detection**: Detects emotions such as calm, happy, fearful, and disgust from audio files.
