@@ -93,7 +93,7 @@ The project currently observes the following emotions:
 
 You can modify the `observed_emotions` dictionary in the code to change or add more emotions.
 
-### Challenges Faced
+## Challenges Faced
 
 - **Noise and Distortions**: Handling background noise and distortions in audio files required advanced preprocessing techniques like noise reduction and filtering.
 
@@ -105,7 +105,7 @@ You can modify the `observed_emotions` dictionary in the code to change or add m
 
 - **Emotion Classification**: Achieving high accuracy in classifying subtle emotional differences in speech can be challenging, given the variability in human speech patterns and the complexity of emotions.
 
-### Future Scope and Improvements
+## Future Scope and Improvements
 
 - **Deep Learning Models**: Explore advanced deep learning architectures like Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) for more effective feature learning and classification.
 
